@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: ZnajdŸ partnera Microsoft Learning
       summary: Nasza globalna sieæ partnerów prowadzi elastyczne, dostosowane do indywidualnych potrzeb szkolenia w zakresie technologii Microsoft.
-      url: https://www.microsoft.com/en-us/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: Wsparcie w zakresie certyfikatów i egzaminów
       summary: Uzyskaj pomoc za pomoc¹ forów pomocy technicznej. Moderator forum odpowie na pytanie w ci¹gu jednego dnia roboczego, od poniedzia³ku do pi¹tku.
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Certyfikaty Microsoft
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Korzyœci z posiadania certyfikatów Microsoft
     summary: Po uzyskaniu certyfikatu, 23% certyfikowanych przez Microsoft specjalistów w zakresie technologii poinformowa³o, ¿e ich wynagrodzenie wzros³o nawet o 20%. Co wiêcej, certyfikowanym pracownikom czêsto powierza siê nadzorowanie wspó³pracowników, co przyspiesza ich awans. - Bia³a ksiêga Pearson VUE dotycz¹ca wartoœci certyfikatów, 2017 r.
   items:
